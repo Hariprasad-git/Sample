@@ -1,8 +1,8 @@
-public class MyClass {
+public class sample {
   int x = 5;
 
   public static void main(String[] args) {
-    MyClass myObj = new MyClass();
+    sample myObj = new sample();
     System.out.println(myObj.x);
   }
 }
